@@ -26,8 +26,8 @@
 ├── PROJECT_STRUCTURE.md
 ├── index.html
 ├── package.json
-├── postcss.config.js
-├── tailwind.config.js
+├── postcss.config.cjs
+├── tailwind.config.cjs
 ├── tsconfig.json
 ├── tsconfig.node.json
 └── vite.config.ts
